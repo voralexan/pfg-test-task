@@ -13,7 +13,9 @@ A solution of PFG test task https://hackattic.com/challenges/dockerized_solution
 ```bash
 pip install -r requirements.txt
 ```
-2. Run the script from a directory with ./certs subdirectory.
+2. Insert your domain name and access key in the start of the script.
+
+3. Run the script from a directory with ./certs subdirectory.
 ```bash
 python dockerized_solutions.py
 ```
