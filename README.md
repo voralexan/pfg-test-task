@@ -20,6 +20,9 @@ pip install -r requirements.txt
 python dockerized_solutions.py
 ```
 
+# Result
+You should get something like this =) :
+![](./result.jpg)
 
 # Sample script output
 Sending request to https://hackattic.com/challenges/dockerized_solutions/problem?access_token=<your token>
